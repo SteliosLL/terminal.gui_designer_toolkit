@@ -62,6 +62,8 @@ echo ======================================================
 echo               INSTALLATION OPTIONS
 echo ======================================================
 echo.
+echo NOTE: To install the packages below you must run this script from your project's root directory otherwise they may FAIL to install
+echo.
 echo  [1] Install Terminal.Gui (Nuget package)
 echo  [2] Install GUI Designer (Global tool)
 echo  [B] Back to Main Menu
